@@ -271,7 +271,7 @@ export const education = [
     degree: "CBSE(X), Science with Computer",
   },
 ];
-
+ 
 export const projects = [
   {
     id: 10,
@@ -280,10 +280,10 @@ export const projects = [
     description:
       "Job Portal is a MERN stack application that connects job seekers and employers, featuring secure authentication, job postings, applications, and role-based access for a seamless recruitment experience.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
+      "../../public/HeroImage.jpg",
     tags: ["ReactJs", "JavaScript", "Shadcn","Tailwind","NodeJs","Cloudniary"],
     category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
+    github: "https://github.com/vikeshub/Job-Portal",
     webapp: "https://job-portal-s53j.onrender.com",
   },
   {
