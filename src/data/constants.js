@@ -1,3 +1,5 @@
+// import heroImage from "../../public/HeroImage.jpg";
+
 export const Bio = {
   name: "Vikesh Kumar Mahto",
   roles: [
@@ -271,7 +273,7 @@ export const education = [
     degree: "CBSE(X), Science with Computer",
   },
 ];
- 
+
 export const projects = [
   {
     id: 10,
@@ -279,9 +281,15 @@ export const projects = [
     date: "Dec 2024 - Dec 2024",
     description:
       "Job Portal is a MERN stack application that connects job seekers and employers, featuring secure authentication, job postings, applications, and role-based access for a seamless recruitment experience.",
-    image:
-      "../../public/HeroImage.jpg",
-    tags: ["ReactJs", "JavaScript", "Shadcn","Tailwind","NodeJs","Cloudniary"],
+    image: "/JobPortal.png",
+    tags: [
+      "ReactJs",
+      "JavaScript",
+      "Shadcn",
+      "Tailwind",
+      "NodeJs",
+      "Cloudniary",
+    ],
     category: "android app",
     github: "https://github.com/vikeshub/Job-Portal",
     webapp: "https://job-portal-s53j.onrender.com",
