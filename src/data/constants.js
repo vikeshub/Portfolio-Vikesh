@@ -13,10 +13,10 @@ export const Bio = {
   github: "https://github.com/vikeshub",
   resume:
     "https://drive.google.com/file/d/17nILmEoizCoKaAAlTuZASB60LwbnijN7/view?usp=drive_link",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "https://www.facebook.com/rishav.chanda.165/",
+  linkedin: "https://www.linkedin.com/in/vikesh-kumar-mahto-15b5a722b/",
+  twitter: "#",
+  insta: "#",
+  facebook: "#",
 };
 
 export const skills = [
@@ -240,7 +240,7 @@ export const experiences = [
       "Version Control (Git)",
       "Eagerness to Learn",
     ],
-    doc: "https://drive.google.com/file/d/14IHz_oUAdVSa_gAL0b8QAVb-o4rLQFj-/view?usp=sharing",
+    doc: "./30-Days-of-GCP-Vikesh.png",
   },
 ];
 
